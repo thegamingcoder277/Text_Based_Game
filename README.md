@@ -51,10 +51,3 @@ Progress is saved to `save.json` in the same directory as the game. On startup, 
 ## Death & Restart
 
 If your HP drops to 0 or below, it's game over — your death count goes up, and you restart from the beginning of the forest with your gold reset. Your sword and progress are lost, but the story remembers how many times you've fallen.
-
-## Possible Future Additions
-
-- More branching paths and endings
-- Additional items and inventory management
-- Difficulty settings
-- More enemies and encounters
